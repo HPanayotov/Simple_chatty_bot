@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Simple chatty bot (Java).iml" filepath="$PROJECT_DIR$/Simple chatty bot (Java).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Simple_chatty_bot_(Java).iml" filepath="$PROJECT_DIR$/.idea/Simple_chatty_bot_(Java).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple chatty bot (Java)/task/Simple_chatty_bot_(Java)-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple chatty bot (Java)/task/Simple_chatty_bot_(Java)-task.iml" group="Simple_chatty_bot_(Java)-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple chatty bot (Java)/task/Simple_chatty_bot_(Java)-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple chatty bot (Java)/task/Simple_chatty_bot_(Java)-task_main.iml" group="Simple_chatty_bot_(Java)-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple chatty bot (Java)/task/Simple_chatty_bot_(Java)-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple chatty bot (Java)/task/Simple_chatty_bot_(Java)-task_test.iml" group="Simple_chatty_bot_(Java)-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="util" />
+    </modules>
+  </component>
+</project>
